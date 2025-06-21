@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m [Ayush Chaudhary]!
 
-<!--
-**Ayush-Chaudhary13/Ayush-Chaudhary13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🔭 I’m currently learning **GitHub, coding, and tech stuff**.
+- 🌱 Interested in **AI, Web Dev & Programming**.
+- 📫 How to reach me: [ayushchaudhary131202@gmail.com]
 
-Here are some ideas to get you started:
+### 🛠️ Skills (Even if Beginner!)
+- ⚡ **Soft Skills:** Teamwork, Problem Solving, Time Management
+- 💻 **Tech Interests:**  GitHub, NodeJS, ExpressJS, Git, MySQL, MongoDB, VS Code,  C, C++, JavaScript, SQL, Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 GitHub Stats (Optional)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+#### 🎉 Thanks for visiting my profile!
