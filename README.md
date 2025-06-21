@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Ayush Chaudhary and I'm a software developer. I'm from India, living in Noida. You can find me r on [![LinkedIn][3.2]][3].
+My name is Ayush Chaudhary and I'm a software developer. I'm from India, living in Noida. You can find me on [![LinkedIn][3.2]][3].
 
 ### 🛠️ **Tech Stack**  
 
@@ -31,15 +31,7 @@ My name is Ayush Chaudhary and I'm a software developer. I'm from India, living 
 <a href="https://github.com/Ayush-Chaudhary13/Ayush-Chaudhary13">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Chaudhary13&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayush's GitHub Stats" />
 </a>
-
-<a href="https://github.com/Ayush-Chaudhary13/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Chaudhary13&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Ayush-Chaudhary13/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-Chaudhary13&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+   
 
 <!-- links to social media icons -->
 
@@ -50,7 +42,7 @@ My name is Ayush Chaudhary and I'm a software developer. I'm from India, living 
 <!-- icons without padding -->
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/Ayush-Chaudhary13/Ayush-Chaudhary13/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/Ayush-Chaudhary13/Ayush-Chaudhary13/master/linkedin3.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
