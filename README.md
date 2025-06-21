@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/Ayush-Chaudhary13/Ayush-Chaudhary13/main/Header.png)](https://github.com/Ayush-Chaudhary13)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/Ayush-Chaudhary13/Ayush-Chaudhary13/master/wave.gif" width="30px" height="30px" />
 
 My name is Ayush Chaudhary and I'm a software developer. I'm from India, living in Noida. You can find me on [![LinkedIn][3.2]][3].
 
